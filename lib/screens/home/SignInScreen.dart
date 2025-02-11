@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 import 'package:firebase_ui_auth/firebase_ui_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:scientific_research_discover/screens/Firist%20Screen/ArxivPaperScreen.dart';

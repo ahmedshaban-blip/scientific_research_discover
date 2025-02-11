@@ -1,3 +1,5 @@
+// ignore_for_file: file_names, use_build_context_synchronously
+
 import 'package:flutter/material.dart';
 import 'package:scientific_research_discover/cubit/arxiv_paper_cubit.dart';
 import 'package:url_launcher/url_launcher.dart';
